@@ -24,6 +24,7 @@ OBJS = obj/backup_ram.o \
        obj/video_ram_2k.o \
        obj/video_ram_32k.o \
        obj/watchdog.o \
+       obj/white_screen.o \
        obj/work_ram.o \
        obj/z80.o
 

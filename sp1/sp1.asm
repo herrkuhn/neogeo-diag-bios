@@ -394,6 +394,7 @@ MAIN_MENU_ITEMS_START:
 	MAIN_MENU_ITEM STR_CALENDAR_IO, manual_calendar_tests, 1
 	MAIN_MENU_ITEM STR_COLOR_BARS_BASIC, manual_color_bars_basic_test, 0
 	MAIN_MENU_ITEM STR_COLOR_BARS_SMPTE, manual_color_bars_smpte_test, 0
+	MAIN_MENU_ITEM STR_WHITE_SCREEN, manual_white_screen_test, 0
 	MAIN_MENU_ITEM STR_VIDEO_DAC_TESTS, manual_video_dac_tests, 0
 	MAIN_MENU_ITEM STR_CONTROLLER_TESTS, manual_controller_tests, 0
 	MAIN_MENU_ITEM STR_WORK_RAM_TEST_LOOP, manual_work_ram_tests, 0
@@ -426,7 +427,7 @@ timer_interrupt:
 		rte
 
 
-STR_VERSION_HEADER:		STRING "NEO DIAGNOSTICS v0.19a02 - SMKDAN/ACK"
+STR_VERSION_HEADER:		STRING "NEO DIAGNOSTICS v0.19a03 - SMKDAN/ACK"
 
 XY_STR_A_TO_RESUME:		XY_STRING  4, 26, "A: Release to Resume"
 XY_STR_D_MAIN_MENU:		XY_STRING  4, 27, "D: Return to menu"

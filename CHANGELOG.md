@@ -1,6 +1,9 @@
 # Change Log
 ---
-#### v0.19a02 (master)
+#### v0.19a03
+* SP1: Pure white screen test for video signal calibration.
+
+#### v0.19a02
 * SP1: Add error addresses
 * SP1: Continually print sound latch value during 68k/z80 comm test
 * SP1: P ROM Bus Tests (requires custom cart)
