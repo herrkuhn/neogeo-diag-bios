@@ -1,6 +1,6 @@
 # Change Log
 ---
-#### v0.19a03
+#### v0.19a02-ws
 * SP1: Pure white screen test for video signal calibration.
 
 #### v0.19a02
